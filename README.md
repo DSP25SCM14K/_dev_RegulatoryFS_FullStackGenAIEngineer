@@ -1,4 +1,4 @@
-# Dev Kumar - Regulatory FS Full Stack GenAI Engineer Portfolio
+# Dev Kumar - Full-Stack GenAI Portfolio
 
 Static dark-theme portfolio tailored for a Regulatory Financial Services Full Stack GenAI Engineer profile, focused on Python/FastAPI, Java/Spring Boot, Angular/TypeScript, RAG, OpenAI APIs, LangChain, AWS, CI/CD, containers, OWASP Top 10, secrets management, least-privilege IAM, responsive UI, and accessibility.
 
