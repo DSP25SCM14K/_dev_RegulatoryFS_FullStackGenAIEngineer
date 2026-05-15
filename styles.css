@@ -192,8 +192,7 @@ canvas {
 
 .hero-content,
 .hero-metrics,
-.section,
-.site-footer {
+.section {
   width: min(100%, var(--max));
   margin-inline: auto;
 }
@@ -663,15 +662,6 @@ h3 {
   font-size: 3rem;
 }
 
-.site-footer {
-  display: flex;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 42px 24px 56px;
-  color: var(--quiet);
-  font-size: 0.9rem;
-}
-
 .reveal {
   opacity: 0;
   transform: translateY(22px);
@@ -830,10 +820,6 @@ h3 {
     padding: 28px 16px;
   }
 
-  .site-footer {
-    flex-direction: column;
-    padding-inline: 16px;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
